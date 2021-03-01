@@ -1,0 +1,555 @@
+header {
+	background-image: url("2021_OX_v3_paper_new_011-01.jpg");
+	width: auto;
+	height:200px;
+    background-size: 400px;
+	background-position: center ;
+	display:block;
+	background-repeat: no-repeat;
+	margin-left:-800px;
+	
+	}
+	
+.img1 {
+	width: 810px;
+	height: 137px;
+	float: right;
+	right: 3px;
+	margin-top: 63px;
+	position: absolute;
+}
+
+h2 {
+	font-size: 80px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+	
+	
+	}
+.Whity  {
+	width: 1251px;
+	height: 2990px;
+	background-color: white;
+	float: right;
+	size: 100px;
+	position: absolute;
+	}
+	
+button {
+   border-radius: 0;
+   color: white;
+   font-size: 15px;
+	display: block;
+	cursor: pointer;
+	padding: 20px;
+	background-color: black;
+	border: none;
+	float:right;
+	margin-right: 680px;
+	margin-top: -196px;
+	position: fix;
+}
+table {
+	 border-collapse: collapse;
+     width: 50%;
+     empty-cells: initials;
+	 position: absolute;
+	 bottom: 50px;
+	 right: 143px;
+
+}
+table, th, td {
+	border: 10px solid Black;
+	position: fix;
+	background-image: url("5174835_calendar-background-designs-may-2018-desktop-calendar-transparent.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	color: black;
+	font-weight: 10px;
+}
+
+td, th {
+	
+	padding: 15px;
+	width: 100px;
+	height: auto;
+	text-align: center;
+	
+	
+	
+}
+tr {
+  background-color: white;
+  color: Solid white;
+  
+}
+.button1 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-top: -187px;
+	margin-right: 720px
+}
+.button2 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 640px;
+	margin-top: -187px;
+}
+.button3 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 580px;
+	margin-top: -187px;
+}
+.button4 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 530px;
+	margin-top: -187px;
+
+}
+.button5 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 485px;
+	margin-top: -187px;
+
+}
+.button6 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 430px;
+	margin-top: -187px;
+
+}
+.button7 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 385px;
+	margin-top: -187px;
+
+}
+.button8 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 320px;
+	margin-top: -187px;
+
+}
+.button9 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 230px;
+	margin-top: -187px;
+
+}
+.button10 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 160px;
+	margin-top: -187px;
+
+}
+.button11 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: 70px;
+	margin-top: -187px;
+
+}
+.button12 {
+	float: right;
+	position: fix;
+	background: none;
+	transition-duration: 0.4s;
+	padding:10px 10px;
+	color: white;
+	margin-right: -8px;
+	margin-top: -187px;
+	overflow: auto;
+}
+.button13 {
+	
+	position: absolute;
+	background: black;
+	transition-duration: 0.4s;
+	padding:15px 15px;
+	color: white;
+	right: -880px;
+	margin-top:83px;
+	
+	overflow: auto;
+	
+	
+}
+.button14 {
+	
+	position: absolute;
+	background: black;
+	transition-duration: 0.4s;
+	padding:15px 15px;
+	color: white;
+	right:-370px;
+	margin-top:83px;
+	overflow: auto;
+	
+}
+.button:hover {
+  background-color: lightblue;
+  color: white;
+}
+.div1 {
+	width: 750px;
+	height: 0px; 
+	border: 30px solid red;
+	padding: none;
+	float: right;
+	margin-right:-5px;
+	margin-top: -200px;
+	size: 10px;
+}
+.div2 {
+	width: 1023px;
+	height: 550px;
+	background-image: url("background-calendar-dates-numbers-vector-illustration-47753221.jpg");
+
+	position: fix;
+	float: right;
+	margin-right: 135px;
+	margin-top: 160px;
+}
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: red;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  float: right;
+  right: 150px;
+  top: 220px;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 1s;
+  animation: animatezoom 1s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(2)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+$bgColor: #3a3d55;
+$slideBgColor: rgba(255,255,255,0.3);
+$slideBallColor: white;
+$slideBallIconColor: black;
+$slideTextColor: #3a3d55;
+
+
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin nonselect {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+	cursor: default;
+}
+
+html, body {
+	height: 100%;
+	overflow: hide;
+}
+
+body {
+	background-color: $bgColor;
+	@include center;
+}
+
+#button-background {
+	position: relative;
+	background-color: $slideBgColor;
+	width: 400px;
+	height: 80px;
+	border: white;
+	border-radius: 40px;
+  @include center;
+}
+
+#slider {
+	transition: width 0.3s,
+		border-radius 0.3s,
+		height 0.3s;
+	position: absolute;
+	left: -10px;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	@include center;
+	&.unlocked {
+		transition: all 0.3s;
+		width: inherit;
+		left: 0 !important;
+		height: inherit;
+		border-radius: inherit;
+	}
+}
+
+.material-icons {
+	color: red;
+	font-size: 50px;
+	@include nonselect;
+}
+
+.slide-text {
+	color: red;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	@include nonselect;
+}
+
+.bottom {
+	position: fixed;
+	bottom: 0;
+	font-size: 14px;
+	color: white;
+	a {
+		color: white;
+	}
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+  float: left;
+  padding: 30px;
+  margin-left:-100px;
+  margin-top: 200px;
+  position: fix;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+  float: right;
+  padding: 30px;
+  margin-right:-100px;
+  margin-top: 200px;
+  position: fix;
+}
+
+.round {
+  border-radius: 50%;
+}
+.previous2 {
+  background-color: #f1f1f1;
+  color: black;
+  float: left;
+  padding: 30px;
+  margin-left:-100px;
+  margin-top: 200px;
+  position: fix;
+}
+
+.next2 {
+  background-color: #4CAF50;
+  color: white;
+  float: right;
+  padding: 30px;
+  margin-right:-100px;
+  margin-top: 200px;
+  position: fix;
+}
+.divsection {
+	position: absolute;
+	width: 600px;
+	height: 70px;
+	top: 10px;
+	background-image: url("pngtree-red-fashion-corporate-event-sign-in-the-wall-background-material-image_137794.jpg");
+	
+}
+h3 {
+	font-size: 40px;
+	position: absolute;
+	top: -30px;
+	left: 20px;
+	color: Black;
+}
+.events {
+	position:absolute;
+	
+	width: 600px;
+	height: 1000px;
+	top: 90px;
+}
+
+.list-holidays {
+	border-radius: 4px 4px 0px 0px;
+    background-color: darkgray;
+    margin-top: 1px;
+    margin-bottom: 0;
+	box-sizing: border-box;
+}
+.list-holiday-box {
+	border-radius: 4px 4px 0px 0px;
+    background-color: #f7f7f7;
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+.list-holiday-dayweek {
+	background-color: black;
+}
+.holiday-day {
+	
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 10px;
+	overflow: visible;
+	margin-right: 10px;
+	width: 600px;
+	top: 130px;
+	position: absolute;
+}
+.list-holidays .list-holiday-box:first-child, .list-holidays .list-other-box:first-child {
+    border-radius: 4px 4px 0 0;
+}
+	
+	.list-holidays .list-holiday-box .list-holiday-dayweek, .list-holidays .list-other-box .list-holiday-dayweek {
+    background-color: black;
+    padding: 10px 0;
+    display: table-cell;
+    vertical-align: middle;
+    width: 300px;
+    font-family: 'Droid Sans Mono';
+	left: 100px
+}
+
+element.style {
+}
+.list-holidays .list-holiday-box .list-holiday-title, .list-holidays .list-other-box .list-holiday-title {
+    padding: 10px 15px;
+    display: table-cell;
+    vertical-align: middle;
+	
+}
+.list-holidays .list-holiday-box .list-holiday-dayweek, .list-holidays .list-other-box .list-holiday-dayweek {
+    background-color: #d5d6db;
+    padding: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    width: 40px;
+    font-family: 'Droid Sans Mono';
+}
+.divider {
+	width: 0px;
+	height: 2900px;
+	border: solid Black;
+	position:absolute;
+	size: 100px;
+	right: 643px;
+}
+#2p {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  margin-top: 20px;
+  
+
